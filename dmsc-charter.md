@@ -1,4 +1,4 @@
-## **DMSC(Dynamic Multi-agents Secured Collaboration) WG Charter**
+## **DMSC(Dynamic Multi-agent Secured Collaboration) WG Charter**
 
 ### **1. Introduction**
 
