@@ -17,19 +17,26 @@ To address these challenges, the Dynamic, Multi-Agent, Secured Collaboration (DM
 
 The DMSC working group will focus on the following areas:
 
- 1). Use cases and scenarios: Identifying critical use cases for multi-agent collaboration, including AI agents used in complex tasks that span across multiple domains such as automation, decision-making, and resource management.
+ 1) Use cases and scenarios: 
+    Identifying critical use cases for multi-agent collaboration, including AI agents used in complex tasks that span across multiple domains such as automation, decision-making, and resource management.
 
- 2). Infrastructure architecture: Proposing an infrastructure architecture for agent collaboration, including key functional components and interfaces.
+ 2) Infrastructure architecture: 
+    Proposing an infrastructure architecture for agent collaboration, including key functional components and interfaces.
 
- 3). Collaboration mechanisms: Defining collaboration mechanisms such as agent registration, peer discovery, request routing, and coordination protocols that support efficient and secure inter-agent collaboration.
+ 3) Collaboration mechanisms: 
+    Defining collaboration mechanisms such as agent registration, peer discovery, request routing, and coordination protocols that support efficient and secure inter-agent collaboration.
 
- 4). Cross‑domain interoperability: Defining mechanisms to support seamless collaboration among AI agents operating across different networks, administrative domains, and platforms.
+ 4) Cross‑domain interoperability: 
+    Defining mechanisms to support seamless collaboration among AI agents operating across different networks, administrative domains, and platforms.
 
- 5). Scalability and performance: Ensuring the solution scales to handle large numbers of agents and transactions, without compromising performance.
+ 5) Scalability and performance:
+    Ensuring the solution scales to handle large numbers of agents and transactions, without compromising performance.
 
- 6). Operations, Administration, and Maintenance (OAM): Addressing the management of agents in DMSC-based systems, including scalable operational and administrative protocols for monitoring, troubleshooting, and upgrading agents.
+ 6) Operations, Administration, and Maintenance (OAM): 
+    Addressing the management of agents in DMSC-based systems, including scalable operational and administrative protocols for monitoring, troubleshooting, and upgrading agents.
 
- 7). Security and trust: Ensuring that the collaboration mechanisms uphold security and trustworthiness, particularly in open environments where agents of different types and from different providers may interact.
+ 7) Security and trust: 
+    Ensuring that the collaboration mechanisms uphold security and trustworthiness, particularly in open environments where agents of different types and from different providers may interact.
 
 
 ### **3. Out of Scope**
@@ -42,15 +49,20 @@ To clearly define the boundaries of this group, this working group will not:
 
 The working group will deliver the following outcomes:
 
-1). Use Case and Requirements Document: A document detailing representative use cases, scenarios, and the functional and non-functional requirements for dynamic multi-agent collaboration.
+1) Use Case and Requirements Document: 
+   A document detailing representative use cases, scenarios, and the functional and non-functional requirements for dynamic multi-agent collaboration.
 
-2).  Architecture Documents: The documents describing the infrastructure and protocol architecture for enabling collaboration among AI agents, focusing on communication, coordination, discovery, interoperability and security.
+2) Architecture Documents: 
+   The documents describing the infrastructure and protocol architecture for enabling collaboration among AI agents, focusing on communication, coordination, discovery, interoperability and security.
 
-3). Protocol Specifications: Specifications for key protocols to enable dynamic agent registration, discovery, request routing, and secure communication.
+3) Protocol Specifications: 
+   Specifications for key protocols to enable dynamic agent registration, discovery, request routing, and secure communication.
 
-4). Security Considerations: A document outlining security challenges and solutions, particularly in heterogeneous, multi-agent environments.
+4) Security Considerations: 
+   A document outlining security challenges and solutions, particularly in heterogeneous, multi-agent environments.
 
-5). OAM Best Practices: The documents on best practices for managing, maintaining and monitor AI agents performance in collaborative environments.
+5) OAM Best Practices: 
+   The documents on best practices for managing, maintaining and monitor AI agents performance in collaborative environments.
 
 ### **5. Proposed Milestones**
 
