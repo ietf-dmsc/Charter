@@ -67,7 +67,7 @@ The working group will deliver the following outcomes:
 ### **5. Proposed Milestones**
 
 * Milestone 1: Identify use cases, requirements, and essential features for multi-agent collaboration (6 months).
-* Milestone 2: Develop and propose an architecture for dynamic multi-agent collaboration (12 months).
+* Milestone 2: Develop and propose the architecture for dynamic multi-agent collaboration (12 months).
 * Milestone 3: Draft protocol specifications for registration, discovery, and request routing (18 months).
 * Milestone 4: Address scalability, security, and OAM challenges, and propose a set of best practices (24 months).
 
