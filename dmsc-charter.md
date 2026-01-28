@@ -19,17 +19,17 @@ The DMSC working group will focus on the following areas:
 
  1). Use cases and scenarios: Identifying critical use cases for multi-agent collaboration, including AI agents used in complex tasks that span across multiple domains such as automation, decision-making, and resource management.
 
- 2). Technical architecture: Proposing a technical architecture for agent collaboration, including key functional components and interfaces.
+ 2). Infrastructure architecture: Proposing an infrastructure architecture for agent collaboration, including key functional components and interfaces.
 
  3). Collaboration mechanisms: Defining collaboration mechanisms such as agent registration, peer discovery, request routing, and coordination protocols that support efficient and secure inter-agent collaboration.
 
  4). Cross‑domain interoperability: Defining mechanisms to support seamless collaboration among AI agents operating across different networks, administrative domains, and platforms.
 
- 5). Operations, Administration, and Maintenance (OAM): Addressing the management of agents in DMSC-based systems, including scalable operational and administrative protocols for monitoring, troubleshooting, and upgrading agents.
+ 5). Scalability and performance: Ensuring the solution scales to handle large numbers of agents and transactions, without compromising performance.
 
- 6). Security and trust: Ensuring that the collaboration mechanisms uphold security and trustworthiness, particularly in open environments where agents of different types and from different providers may interact.
+ 6). Operations, Administration, and Maintenance (OAM): Addressing the management of agents in DMSC-based systems, including scalable operational and administrative protocols for monitoring, troubleshooting, and upgrading agents.
 
- 7). Scalability and performance: Ensuring the solution scales to handle large numbers of agents and transactions, without compromising performance.
+ 7). Security and trust: Ensuring that the collaboration mechanisms uphold security and trustworthiness, particularly in open environments where agents of different types and from different providers may interact.
 
 
 ### **3. Out of Scope**
