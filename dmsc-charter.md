@@ -44,13 +44,13 @@ The working group will deliver the following outcomes:
 
 1). Use Case and Requirements Document: A document detailing representative use cases, scenarios, and the functional and non-functional requirements for dynamic multi-agent collaboration.
 
-2).  Architecture Document: A document describing the architecture for enabling collaboration among AI agents, focusing on communication, coordination, discovery, interoperability and security.
+2).  Architecture Documents: The documents describing the infrastructure and protocol architecture for enabling collaboration among AI agents, focusing on communication, coordination, discovery, interoperability and security.
 
 3). Protocol Specifications: Specifications for key protocols to enable dynamic agent registration, discovery, request routing, and secure communication.
 
 4). Security Considerations: A document outlining security challenges and solutions, particularly in heterogeneous, multi-agent environments.
 
-5). OAM Best Practices: A document on best practices for managing and maintaining AI agents in collaborative environments.
+5). OAM Best Practices: The documents on best practices for managing, maintaining and monitor AI agents performance in collaborative environments.
 
 ### **5. Proposed Milestones**
 
