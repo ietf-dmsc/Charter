@@ -3,15 +3,15 @@
 ### **1. Introduction**
 
 With the rapid emergence of diverse AI agents—including host agents, device agents, network agents, and application agents—a critical challenge is to enable dynamic collaboration among these agents to perform complex tasks on behalf of end-users. At the same time, there is a growing need to ensure that such collaboration is secure, scalable, and manageable operationally.
-Service providers and network operators face the task of designing and optimizing a comprehensive communication architecture that enables secure and efficient collaboration between heterogeneous AI agents, ensuring the following:
+Service providers face the task of designing and optimizing a comprehensive communication architecture that enables secure and efficient collaboration between heterogeneous AI agents, ensuring the following:
 
-* Standardized agent registration and identification
+* Distributed agent registration and identification
 * Discovery of suitable peer agents
 * Intelligent request routing and coordination
 * Secure inter-agent communication and trust establishment
 * Sustained high performance and operational visibility
 
-To address these challenges, the Dynamic, Multi-Agent, Secured Collaboration (DMSC) working group will explore solutions for defining interoperable protocols and mechanisms that enables AI agents to collaborate effectively in complex human-driven tasks. This work will focus on core aspects of collaboration—such as agent registration, discovery, request coordination, and secure inter‑agent communication
+To address these challenges, the Dynamic, Multi-Agent, Secured Collaboration (DMSC) working group will explore solutions for defining interoperable protocols and mechanisms that enables AI agents to collaborate effectively in complex human-driven tasks. This work will focus on core aspects of collaboration—such as distributed agent registration, discovery, request coordination, and secure inter‑agent communication
 
 ### **2. Scope**
 
@@ -23,19 +23,22 @@ The DMSC working group will focus on the following areas:
  2) Infrastructure architecture:<br> 
     Proposing an infrastructure architecture for agent collaboration, including key functional components and interfaces.
 
- 3) Collaboration mechanisms:<br> 
+ 3) Framework of protocol suite: <br>
+    Framework for the protocol composite required for agent-to-agent collaboration.
+    
+ 4) Collaboration mechanisms:<br> 
     Defining collaboration mechanisms such as agent registration, peer discovery, request routing, and coordination protocols that support efficient and secure inter-agent collaboration.
 
- 4) Cross‑domain interoperability:<br>
+ 5) Cross‑domain interoperability:<br>
     Defining mechanisms to support seamless collaboration among AI agents operating across different networks, administrative domains, and platforms.
 
- 5) Scalability and performance:<br>
+ 6) Scalability and performance:<br>
     Ensuring the solution scales to handle large numbers of agents and transactions, without compromising performance.
 
- 6) Operations, Administration, and Maintenance (OAM):<br> 
-    Addressing the management of agents in DMSC-based systems, including scalable operational and administrative protocols for monitoring, troubleshooting, and upgrading agents.
+ 7) Sustained high performance and operational visibility:<br> 
+    Addressing the management of agents in DMSC-based systems, including scalable operational and administrative protocols for monitoring, troubleshooting the process of collaboration task.
 
- 7) Security and trust:<br> 
+ 8) Security and trust:<br> 
     Ensuring that the collaboration mechanisms uphold security and trustworthiness, particularly in open environments where agents of different types and from different providers may interact.
 
 
@@ -61,7 +64,7 @@ The working group will deliver the following outcomes:
 4) Security Considerations:<br> 
    A document outlining security challenges and solutions, particularly in heterogeneous, multi-agent environments.
 
-5) OAM Best Practices:<br> 
+5) Operational visibility:<br> 
    The documents on best practices for managing, maintaining and monitor AI agents performance in collaborative environments.
 
 ### **5. Proposed Milestones**
