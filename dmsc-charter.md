@@ -8,7 +8,7 @@ Service providers and cloud operators face the task of designing and optimizing 
 * AI Agent Gateway based, distributed agent registration and identification.
 * Discovery of suitable peer agents via the AI Agent Gateway.
 * Agents registration and capabilities information synchronize among the distributed AI Agent Gateways within the same domain.
-* Inter-domain AI Agents related information exchange and trust establishment.
+* Inter-domain AI Agents related information exchange and trust establishment, including semantic interoperability for agent capabilities, intents, tasks, and context across gateways and domains
 * Sustained high performance and operational visibility for the AI Agents communication.
 
 To address these challenges, the Dynamic, Multi-Agent, Secured Collaboration (DMSC) working group will explore solutions for defining interoperable protocols and mechanisms that enables AI agents to collaborate effectively in complex human-driven tasks. This work will focus on core aspects of collaboration—such as distributed agent registration, discovery, request coordination, and secure inter‑agent communication
@@ -27,7 +27,7 @@ The DMSC working group will focus on the following areas:
     Framework for the protocol composite required for AI Agent Gateway based agent-to-agent collaboration.
     
  4) Cross‑domain interoperability:<br>
-    Defining mechanisms to support seamless collaboration among AI agents operating across different networks, administrative domains, and platforms.
+    Defining mechanisms to support seamless collaboration among AI agents operating across different networks, administrative domains, and platforms,, including semantic interoperability and related validation requirements for cross-domain collaboration.
 
  6) Scalability and performance:<br>
     Ensuring the solution scales to handle large numbers of agents and transactions, without compromising performance.
@@ -53,10 +53,10 @@ The working group will deliver the following outcomes:
    A document detailing representative use cases, scenarios, and the functional and non-functional requirements for the AI Agent Gateway based dynamic multi-agent collaboration.
 
 2) Architecture Documents:<br> 
-   The documents describing the infrastructure and protocol suites for enabling collaboration among AI agents via the AI Agent Gateway, focusing on dynamic registration, AI Agent gateway synchronize, interoperability and security.
+   The documents describing the infrastructure and protocol suites for enabling collaboration among AI agents via the AI Agent Gateway, focusing on dynamic registration, gateway capability directory functions, AI Agent gateway synchronization, semantic and other interoperability aspects, and security.
 
 3) Protocol Specifications:<br> 
-   Specifications for key protocols to enable dynamic AI agent gateway based registration, discovery, request routing, and secure communication.
+   Specifications for key protocols to enable dynamic AI agent gateway based registration, discovery, semantic profile carriage, gateway capability directory synchronization, request routing, and secure communication.
 
 4) Security Considerations:<br> 
    A document outlining security challenges and solutions, particularly in heterogeneous, multi-agent environments.
