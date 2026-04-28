@@ -36,7 +36,7 @@ The DMSC working group will focus on the following areas:
     Addressing the management of agents in AI Agent Gateway-based infrastructure, including scalable operational and administrative protocols for monitoring, troubleshooting the process of collaboration task.
 
  8) Security and trust:<br> 
-    Analysize the security requirement among AI Agent communication to ensuring that the collaboration mechanisms uphold security and trustworthiness, particularly in open environments where agents of different types and from different providers may interact.
+    Analyze the security requirement among AI Agent communication to ensuring that the collaboration mechanisms uphold security and trustworthiness, particularly in open environments where agents of different types and from different providers may interact.
 
 
 ### **3. Out of Scope**
