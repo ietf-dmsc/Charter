@@ -2,33 +2,33 @@
 
 ### **1. Introduction**
 
-With the rapid emergence of diverse AI agents and various use cases, especially that are described in 3GPP(SA1 R20 Study on 6G Use Cases and Service Requirements(TR 22.870)) , a critical challenge arose is to enable dynamic collaboration among these agents to perform complex tasks on behalf of end-users. At the same time, there is a growing need to ensure that such collaboration is scalable, manageable, operational and secure.
-Service providers and cloud operators face the task of designing and optimizing a comprehensive communication architecture that enables secure and efficient collaboration between heterogeneous AI agents, ensuring the following:
+With the rapid emergence of diverse AI agents and various use cases, especially that are described in 3GPP(SA1 R20 Study on 6G Use Cases and Service Requirements(TR 22.870)) , a critical challenge arose is to enable dynamic collaboration among these agents to perform complex tasks on behalf of end-users. At the same time, there is a growing need to ensure that such collaboration is scalable, manageable, operational and secure.<br>
+Service providers and cloud operators face the task of designing and optimizing a comprehensive communication architecture that enables secure and efficient collaboration between heterogeneous AI agents, ensuring the following:<br>
 
-* AI Agent Gateway based, distributed agent registration and identification.
-* Discovery of suitable peer agents via the AI Agent Gateway.
-* Agents registration and capabilities information synchronize among the distributed AI Agent Gateways within the same domain.
-* Inter-domain AI Agents related information exchange and trust establishment, including semantic interoperability for agent capabilities, intents, tasks, and context across gateways and domains
-* Operational visibility for the AI Agents communication.
+* AI Agent Gateway based, distributed agent registration and identification.<br>
+* Discovery of suitable peer agents via the AI Agent Gateway.<br>
+* Agents registration and capabilities information synchronize among the distributed AI Agent Gateways within the same domain.<br>
+* Inter-domain AI Agents related information exchange and trust establishment, including semantic interoperability for agent capabilities, intents, tasks, and context across gateways and domains<br>
+* Operational visibility for the AI Agents communication.<br>
 
-To address these challenges, the Dynamic, Multi-Agent, Secured Collaboration (DMSC) working group will explore solutions for defining interoperable protocols and mechanisms that enables AI agents to collaborate effectively in complex human-driven tasks. This work will focus on core aspects of collaboration—such as distributed agent registration, discovery, request coordination, and secure inter‑agent communication
+To address these challenges, the Dynamic, Multi-Agent, Secured Collaboration (DMSC) working group will explore solutions for defining interoperable protocols and mechanisms that enables AI agents to collaborate effectively in complex human-driven tasks. This work will focus on core aspects of collaboration—such as distributed agent registration, discovery, request coordination, and secure inter‑agent communication<br>
 
 ### **2. Scope**
 
-The DMSC working group will focus on the following areas:
+The DMSC working group will focus on the following areas:<br>
 
  1) Use cases and Requirements: <br>
-    Identifying critical use cases for multi-agent collaboration, including AI agents used in complex tasks that span multi AI-agent Gateway within one domain and across multiple domains.
+    Identifying critical use cases for multi-agent collaboration, including AI agents used in complex tasks that span multi AI-agent Gateway within one domain and across multiple domains.<br>
 
  2) AI Agent collaboration protocol suite and necessary specific protocols: <br>
-    Protocol blocks required for AI Agent Gateway based agent-to-agent collaboration.
+    Protocol blocks required for AI Agent Gateway based agent-to-agent collaboration.<br>
 
  3) Operational visibility:<br>
-    Addressing the management of agents in AI Agent Gateway-based infrastructure, including administrative protocols for monitoring, troubleshooting the process of collaboration task etc.
+    Addressing the management of agents in AI Agent Gateway-based infrastructure, including administrative protocols for monitoring, troubleshooting the process of collaboration task etc.<br>
 
-After the stablization of the above standards, the DMSC working group can extend to consider the following aspects:
- 4) Cross‑domain interoperability:<br>
-    Defining mechanisms to support seamless collaboration among AI agents operating across different networks, administrative domains, and platforms,, including semantic interoperability and related validation requirements for cross-domain collaboration.
+After the stablization of the above standards, the DMSC working group can extend to consider the following aspects:<br>
+    Cross‑domain interoperability:<br>
+    Defining mechanisms to support seamless collaboration among AI agents operating across different networks, administrative domains, and platforms,, including semantic interoperability and related validation requirements for cross-domain collaboration.<br>
  
 ### **3. Out of Scope**
 
@@ -41,19 +41,19 @@ To clearly define the boundaries of this group, this working group will not:
 The working group will deliver the following outcomes:
 
 1) Use Case and Requirements Document:<br> 
-   A document detailing representative use cases, and the requirements for the AI Agent Gateway based dynamic multi-agent collaboration.
+   A document detailing representative use cases, and the requirements for the AI Agent Gateway based dynamic multi-agent collaboration.<br>
 
 2) Protocol Suite Document:<br> 
-   The document describing the infrastructure and protocol suites for enabling collaboration among AI agents via the AI Agent Gateway, focusing on dynamic registration, gateway capability directory functions, AI Agent gateway synchronization, semantic and other interoperability aspects, and security.
+   The document describing the infrastructure and protocol suites for enabling collaboration among AI agents via the AI Agent Gateway, focusing on dynamic registration, gateway capability directory functions, AI Agent gateway synchronization, semantic and other interoperability aspects, and security.<br>
 
 3) Protocol Specifications:<br> 
-   Specifications for key protocols to enable dynamic AI agent gateway based registration, discovery, semantic profile carriage, gateway capability directory synchronization etc.
+   Specifications for key protocols to enable dynamic AI agent gateway based registration, discovery, semantic profile carriage, gateway capability directory synchronization etc.<br>
 
 4) Operational visibility:<br> 
-   The documents on best practices for managing, maintaining and monitor AI agents performance in collaborative environments.
+   The documents on best practices for managing, maintaining and monitor AI agents performance in collaborative environments.<br>
 
 5) Security Considerations:<br> 
-   A document outlining security challenges and solutions, particularly in heterogeneous, multi-agent environments.
+   A document outlining security challenges and solutions, particularly in heterogeneous, multi-agent environments.<br>
 
 ### **5. Proposed Milestones**
 
@@ -64,7 +64,7 @@ The working group will deliver the following outcomes:
 
 ### **6. IETF Area and Relation to Other Work**
 
-The DMSC working group will primarily operate within the Applications Area, with close collaboration with other IETF working groups in Routing and Securities area on information synchronize among the AI Agent gateway and related security concerns.
+The DMSC working group will primarily operate within the Applications Area, with close collaboration with other IETF working groups in Routing and Securities area on information synchronize among the AI Agent gateway and related security concerns.<br>
 
 ### **7. Security Considerations**
 
