@@ -9,7 +9,7 @@ Service providers and cloud operators face the task of designing and optimizing 
 * Discovery of suitable peer agents via the AI Agent Gateway.
 * Agents registration and capabilities information synchronize among the distributed AI Agent Gateways within the same domain.
 * Inter-domain AI Agents related information exchange and trust establishment, including semantic interoperability for agent capabilities, intents, tasks, and context across gateways and domains
-* Sustained high performance and operational visibility for the AI Agents communication.
+* Operational visibility for the AI Agents communication.
 
 To address these challenges, the Dynamic, Multi-Agent, Secured Collaboration (DMSC) working group will explore solutions for defining interoperable protocols and mechanisms that enables AI agents to collaborate effectively in complex human-driven tasks. This work will focus on core aspects of collaboration—such as distributed agent registration, discovery, request coordination, and secure inter‑agent communication
 
@@ -17,28 +17,19 @@ To address these challenges, the Dynamic, Multi-Agent, Secured Collaboration (DM
 
 The DMSC working group will focus on the following areas:
 
- 1) Use cases and scenarios: <br>
+ 1) Use cases and Requirements: <br>
     Identifying critical use cases for multi-agent collaboration, including AI agents used in complex tasks that span multi AI-agent Gateway within one domain and across multiple domains.
 
- 2) Infrastructure architecture:<br> 
-    Proposing an infrastructure architecture for AI-agent gateway based agents collaboration, including key functional components and interfaces.
+ 2) AI Agent collaboration protocol suite and necessary specific protocols: <br>
+    Protocol blocks required for AI Agent Gateway based agent-to-agent collaboration.
 
- 3) Framework of protocol suite: <br>
-    Framework for the protocol composite required for AI Agent Gateway based agent-to-agent collaboration.
-    
+ 3) Operational visibility:<br>
+    Addressing the management of agents in AI Agent Gateway-based infrastructure, including administrative protocols for monitoring, troubleshooting the process of collaboration task etc.
+
+After the stablization of the above standards, the DMSC working group can extend to consider the following aspects:
  4) Cross‑domain interoperability:<br>
     Defining mechanisms to support seamless collaboration among AI agents operating across different networks, administrative domains, and platforms,, including semantic interoperability and related validation requirements for cross-domain collaboration.
-
- 6) Scalability and performance:<br>
-    Ensuring the solution scales to handle large numbers of agents and transactions, without compromising performance.
-
- 7) Sustained high performance and operational visibility:<br> 
-    Addressing the management of agents in AI Agent Gateway-based infrastructure, including scalable operational and administrative protocols for monitoring, troubleshooting the process of collaboration task.
-
- 8) Security and trust:<br> 
-    Analyze the security requirement among AI Agent communication to ensuring that the collaboration mechanisms uphold security and trustworthiness, particularly in open environments where agents of different types and from different providers may interact.
-
-
+ 
 ### **3. Out of Scope**
 
 To clearly define the boundaries of this group, this working group will not:
@@ -50,26 +41,26 @@ To clearly define the boundaries of this group, this working group will not:
 The working group will deliver the following outcomes:
 
 1) Use Case and Requirements Document:<br> 
-   A document detailing representative use cases, scenarios, and the functional and non-functional requirements for the AI Agent Gateway based dynamic multi-agent collaboration.
+   A document detailing representative use cases, and the requirements for the AI Agent Gateway based dynamic multi-agent collaboration.
 
-2) Architecture Documents:<br> 
-   The documents describing the infrastructure and protocol suites for enabling collaboration among AI agents via the AI Agent Gateway, focusing on dynamic registration, gateway capability directory functions, AI Agent gateway synchronization, semantic and other interoperability aspects, and security.
+2) Protocol Suite Document:<br> 
+   The document describing the infrastructure and protocol suites for enabling collaboration among AI agents via the AI Agent Gateway, focusing on dynamic registration, gateway capability directory functions, AI Agent gateway synchronization, semantic and other interoperability aspects, and security.
 
 3) Protocol Specifications:<br> 
-   Specifications for key protocols to enable dynamic AI agent gateway based registration, discovery, semantic profile carriage, gateway capability directory synchronization, request routing, and secure communication.
+   Specifications for key protocols to enable dynamic AI agent gateway based registration, discovery, semantic profile carriage, gateway capability directory synchronization etc.
 
-4) Security Considerations:<br> 
-   A document outlining security challenges and solutions, particularly in heterogeneous, multi-agent environments.
-
-5) Operational visibility:<br> 
+4) Operational visibility:<br> 
    The documents on best practices for managing, maintaining and monitor AI agents performance in collaborative environments.
+
+5) Security Considerations:<br> 
+   A document outlining security challenges and solutions, particularly in heterogeneous, multi-agent environments.
 
 ### **5. Proposed Milestones**
 
 * Milestone 1: Identify use cases, requirements, and essential features for AI agent gateway based multi-agent collaboration (6 months).
-* Milestone 2: Develop and propose the architecture for dynamic, AI agent gateway based multi-agent collaboration (12 months).
+* Milestone 2: Develop and propose the protocol suite for dynamic, AI agent gateway based multi-agent collaboration (12 months).
 * Milestone 3: Draft protocol specifications for AI agent gateway based registration, discovery, and information synchronize (18 months).
-* Milestone 4: Address scalability, OAM challenges and security requirements, propose a set of best practices (24 months).
+* Milestone 4: Address OAM challenges and security requirements, propose a set of best practices (24 months).
 
 ### **6. IETF Area and Relation to Other Work**
 
