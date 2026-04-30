@@ -18,7 +18,7 @@ To address these challenges, the Dynamic, Multi-Agent, Secured Collaboration (DM
 The DMSC working group will focus on the following areas:<br>
 
  1) Use cases and Requirements: <br>
-    Identifying critical use cases for multi-agent collaboration, including AI agents used in complex tasks that span multi AI-agent Gateway within one domain and across multiple domains.<br>
+    Identifying critical use cases for multi-agent collaboration, including AI agents used in complex tasks that span multiple AI-agent Gateways.<br>
 
  2) AI Agent collaboration protocol suite and necessary specific protocols: <br>
     Protocol blocks required for AI Agent Gateway based agent-to-agent collaboration.<br>
@@ -28,7 +28,7 @@ The DMSC working group will focus on the following areas:<br>
 
 After the stablization of the above standards, the DMSC working group can extend to consider the following aspects:<br>
     Cross‑domain interoperability:<br>
-    Defining mechanisms to support seamless collaboration among AI agents operating across different networks, administrative domains, and platforms,, including semantic interoperability and related validation requirements for cross-domain collaboration.<br>
+    Defining mechanisms to support seamless collaboration among AI agents operating across different networks, administrative domains, and platforms, including semantic interoperability and related validation requirements for cross-domain collaboration.<br>
  
 ### **3. Out of Scope**
 
