@@ -9,18 +9,18 @@ Synchronization or exchange of agent capability information among distributed AI
 Inter-domain AI Agents information exchange and trust establishment, including interoperable capability representation and policy exchange across gateways and domains to support secure agent collaboration and forwarding.
 Operational visibility, observability, and policy control for AI agent communications and collaboration flows.
 
-To address these challenges, the Dynamic, Multi-Agent, Secured Collaboration (DMSC) working group will explore solutions for defining interoperable protocols and mechanisms that enables AI agents to collaborate effectively in complex human-driven tasks. This work will focus on interoperable mechanisms for agent capability exposure, discovery, forwarding, coordination, and secure communication, while allowing flexibility for different agent metadata representation models and deployment architectures (e.g., agent-card-based approaches).
+To address these challenges, the Dynamic, Multi-Agent, Secured Collaboration (DMSC) working group will explore solutions for defining interoperable protocols and mechanisms that enables AI agents to collaborate effectively in complex human-driven tasks. This work will focus on interoperable mechanisms for agent capability exposure, forwarding, coordination, and secure communication, while allowing flexibility for different agent metadata representation models and deployment architectures (e.g., agent-card-based approaches).
 
 ## Required Details
 - Status: "WG forming"
 - Responsible AD: Charles Eckel, Andy Newton 
-- BOF proponents: Aijun Wang <wangaj3@chinatelecom.cn>, Bing Liu <leo.liubing@huawei.com>, Dinesh C. Verma <dverma@us.ibm.com>, Jun Liu <liujun@bupt.edu.cn>, Enge Song <enge.seg@alibaba-inc.com> 
+- BOF proponents: Aijun Wang <wangaj3@chinatelecom.cn>, Lionel Morand lionel.morand@huawei.com, Bing Liu <leo.liubing@huawei.com>, Dinesh C. Verma <dverma@us.ibm.com>, Jun Liu <liujun@bupt.edu.cn>, Enge Song <enge.seg@alibaba-inc.com> 
 - Number of people expected to attend: 100
 - Length of session (1 or usually 2 hours): 2 hours
 - Conflicts (whole Areas and/or WGs)
    - Chair Conflicts: TBD
    - Technology Overlap: TBD
-   - Key Participant Conflict: ART/SEC AD
+   - Key Participant Conflict: ART AD
 
 ## Information for IAB/IESG
 To allow evaluation of your proposal, please include the following items:
@@ -32,12 +32,12 @@ To allow evaluation of your proposal, please include the following items:
 - Which (if any) modifications to existing protocols or practices are required: TBD
    
 - Which (if any) entirely new protocols or practices are required: <br>
-   The AI agent gateway based communication protocol suites,the communication between AI agents and their gateway, as well as synchronization across AI agent gateways.
+   The AI agent gateway based communication protocol suites,the communication between AI agents and their gateway, as well as information synchronization among AI agent gateways.
 
 - Open source projects (if any) implementing this work: <br>
    OpenGateway: https://github.com/anAtheist987/OpenGateway <br>
    ANP: https://github.com/agent-network-protocol/AgentNetworkProtocol <br>
-   AIP <br>
+   AIP: https://github.com/AIP-PUB/Agent-Interconnection-Protocol-Project <br>
 
 
 ## Agenda
@@ -93,8 +93,6 @@ To allow evaluation of your proposal, please include the following items:
         <li> Intent-based Agent Interconnection Protocol at Agent Gateway (https://www.ietf.org/ietf-ftp/internet-drafts/draft-sz-dmsc-iaip-00.txt) </li>
         <li> Security Analysis of Multi-agents Secured Communication and Limitations of Existing Protocols(https://datatracker.ietf.org/doc/draft-zhang-dmsc-mas-communication/) </li>
         <li> Ontology-based Semantic Interaction for Internet of Agents(https://datatracker.ietf.org/doc/draft-zhang-dmsc-ioa-semantic-interaction/) </li>
-        <li> AI Agent Discovery and Invocation Protocol(https://datatracker.ietf.org/doc/draft-cui-ai-agent-discovery-invocation/) </li>
         <li> Cross-Domain Interoperability Framework for AI Agent Collaboration(https://datatracker.ietf.org/doc/draft-cui-dmsc-agent-cdi/) </li>
         <li> Using Natural Language for Universal Coordination in Multi Agent Systems(https://datatracker.ietf.org/doc/draft-verma-dmsc-nlip-notes/) </li>
-        <li> HJS: A Judgment Event Protocol(https://datatracker.ietf.org/doc/draft-wang-hjs-judgment-event/)</li> 
         </ol>
