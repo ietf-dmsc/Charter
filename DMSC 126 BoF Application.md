@@ -1,20 +1,20 @@
 # Name: Dynamic Multi-agent Secured Collaboration (DMSC)
 ## Description 
 With the rapid emergence of diverse AI agents and various use cases, especially that are described in 3GPP(SA1 R20 Study on 6G Use Cases and Service Requirements(TR 22.870)) , a critical challenge arose is to enable dynamic collaboration among these agents to perform complex tasks on behalf of end-users. At the same time, there is a growing need to ensure that such collaboration is scalable, manageable, operational and secure.
-Service providers and cloud operators face the task of designing and optimizing a comprehensive communication architecture that enables secure and efficient collaboration between heterogeneous AI agents, ensuring the following:
+Service providers and cloud operators face the task of designing and optimizing a comprehensive communication architecture that enables secure and efficient collaboration between heterogeneous AI agents, ensuring the following: <br>
 
-AI Agent Gateway based, distributed agent identification, capability advertisement, and reachability.
-Capability based peer agent selection and request forwarding via the AI Agent Gateway.
-Synchronization or exchange of agent capability information among distributed AI Agent Gateways within the same domain, including support for existing agent metadata representation approaches (e.g., agent cards).
-Inter-domain AI Agents information exchange and trust establishment, including interoperable capability representation and policy exchange across gateways and domains to support secure agent collaboration and forwarding.
-Operational visibility, observability, and policy control for AI agent communications and collaboration flows.
+- AI Agent Gateway based, distributed agent identification, capability advertisement, and reachability.<br>
+- Capability based peer agent selection and request forwarding via the AI Agent Gateway.<br>
+- Synchronization or exchange of agent capability information among distributed AI Agent Gateways within the same domain, including support for existing agent metadata representation approaches (e.g., agent cards). <br>
+- Inter-domain AI Agents information exchange and trust establishment, including interoperable capability representation and policy exchange across gateways and domains to support secure agent collaboration and forwarding. <br>
+- Operational visibility, observability, and policy control for AI agent communications and collaboration flows. <br>
 
-To address these challenges, the Dynamic, Multi-Agent, Secured Collaboration (DMSC) working group will explore solutions for defining interoperable protocols and mechanisms that enables AI agents to collaborate effectively in complex human-driven tasks. This work will focus on interoperable mechanisms for agent capability exposure, forwarding, coordination, and secure communication, while allowing flexibility for different agent metadata representation models and deployment architectures (e.g., agent-card-based approaches).
+To address these challenges, the Dynamic, Multi-Agent, Secured Collaboration (DMSC) working group will explore solutions for defining interoperable protocols and mechanisms that enables AI agents to collaborate effectively in complex human-driven tasks. This work will focus on interoperable mechanisms for agent capability exposure, forwarding, coordination, and secure communication, while allowing flexibility for different agent metadata representation models and deployment architectures (e.g., agent-card-based approaches). <br>
 
 ## Required Details
 - Status: "WG forming"
 - Responsible AD: Charles Eckel, Andy Newton 
-- BOF proponents: Aijun Wang <wangaj3@chinatelecom.cn>, Lionel Morand lionel.morand@huawei.com, Bing Liu <leo.liubing@huawei.com>, Dinesh C. Verma <dverma@us.ibm.com>, Jun Liu <liujun@bupt.edu.cn>, Enge Song <enge.seg@alibaba-inc.com> 
+- BOF proponents: Aijun Wang <wangaj3@chinatelecom.cn>, Lionel Morand lionel.morand@huawei.com, Bing Liu <leo.liubing@huawei.com>, Dinesh C. Verma <dverma@us.ibm.com>, Jun Liu <liujun@bupt.edu.cn>, Enge Song <enge.seg@alibaba-inc.com> <br>
 - Number of people expected to attend: 100
 - Length of session (1 or usually 2 hours): 2 hours
 - Conflicts (whole Areas and/or WGs)
