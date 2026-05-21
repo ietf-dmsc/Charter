@@ -5,13 +5,13 @@
 With the rapid emergence of diverse AI agents and various use cases, especially that are described in 3GPP(SA1 R20 Study on 6G Use Cases and Service Requirements(TR 22.870)) , a critical challenge arose is to enable dynamic collaboration among these agents to perform complex tasks on behalf of end-users. At the same time, there is a growing need to ensure that such collaboration is scalable, manageable, operational and secure.<br>
 Service providers and cloud operators face the task of designing and optimizing a comprehensive communication architecture that enables secure and efficient collaboration between heterogeneous AI agents, ensuring the following:<br>
 
-* AI Agent Gateway based, distributed agent registration and identification.<br>
-* Discovery of suitable peer agents via the AI Agent Gateway.<br>
-* Agents registration and capabilities information synchronize among the distributed AI Agent Gateways within the same domain.<br>
-* Inter-domain AI Agents related information exchange and trust establishment, including semantic interoperability for agent capabilities, intents, tasks, and context across gateways and domains<br>
-* Operational visibility for the AI Agents communication.<br>
+* AI Agent Gateway based, distributed agent identification, capability advertisement, and reachability.<br>
+* Capability based peer agent selection and request forwarding via the AI Agent Gateway.<br>
+* Synchronization or exchange of agent capability information among distributed AI Agent Gateways within the same domain, including support for existing agent metadata representation approaches (e.g., agent cards).<br>
+* Inter-domain AI Agents information exchange and trust establishment, including interoperable capability representation and policy exchange across gateways and domains to support secure agent collaboration and forwarding <br>
+* Operational visibility, observability, and policy control for AI agent communications and collaboration flows.<br>
 
-To address these challenges, the Dynamic, Multi-Agent, Secured Collaboration (DMSC) working group will explore solutions for defining interoperable protocols and mechanisms that enables AI agents to collaborate effectively in complex human-driven tasks. This work will focus on core aspects of collaboration—such as distributed agent registration, discovery, request coordination, and secure inter‑agent communication<br>
+To address these challenges, the Dynamic, Multi-Agent, Secured Collaboration (DMSC) working group will explore solutions for defining interoperable protocols and mechanisms that enables AI agents to collaborate effectively in complex human-driven tasks. This work will focus on interoperable mechanisms for agent capability exposure, forwarding, coordination, and secure communication, while allowing flexibility for different agent metadata representation models and deployment architectures (e.g., agent-card-based approaches) <br>
 
 ### **2. Scope**
 
@@ -26,7 +26,7 @@ The DMSC working group will focus on the following areas:<br>
  3) Operational visibility:<br>
     Addressing the management of agents in AI Agent Gateway-based infrastructure, including administrative protocols for monitoring, troubleshooting the process of collaboration task etc.<br>
 
-After the stablization of the above standards, the DMSC working group can extend to consider the following aspects:<br>
+After the stabilization of the above standards, the DMSC working group can extend to consider the following aspects:<br>
     Cross‑domain interoperability:<br>
     Defining mechanisms to support seamless collaboration among AI agents operating across different networks, administrative domains, and platforms, including semantic interoperability and related validation requirements for cross-domain collaboration.<br>
  
@@ -59,7 +59,7 @@ The working group will deliver the following outcomes:
 
 * Milestone 1: Identify use cases, requirements, and essential features for AI agent gateway based multi-agent collaboration (6 months).
 * Milestone 2: Develop and propose the protocol suite for dynamic, AI agent gateway based multi-agent collaboration (12 months).
-* Milestone 3: Draft protocol specifications for AI agent gateway based registration, discovery, and information synchronize (18 months).
+* Milestone 3: Draft protocol specifications for AI agent gateway based registration, peer selection, and information synchronization (18 months).
 * Milestone 4: Address OAM challenges and security requirements, propose a set of best practices (24 months).
 
 ### **6. IETF Area and Relation to Other Work**
@@ -68,10 +68,8 @@ The DMSC working group will primarily operate within the Applications Area, with
 
 ### **7. Security Considerations**
 
-Security is a critical aspect of AI agent gateway based multi-agent collaboration. The working group will place significant emphasis to ensure secure communication, trustworthiness, and authorization among agents, as well as the confidentiality and integrity of the data they process. Specifically, this includes:
+Security is a critical aspect of AI agent gateway based multi-agent collaboration. The working group will place significant emphasis on AI agent gateway to ensure trustworthiness, and authorization among agents, as well as the confidentiality and integrity of the data they process. Specifically, this includes:
 * Secure agent registration and identity verification
-* Encryption for agent-to-agent communication
-* Robust trust models for heterogeneous agents
 * Protection against common security threats, such as spoofing and man-in-the-middle attacks
 
 ### **8. Related Works**
