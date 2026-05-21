@@ -13,6 +13,13 @@ Service providers and cloud operators face the task of designing and optimizing 
 
 To address these challenges, the Dynamic, Multi-Agent, Secured Collaboration (DMSC) working group will explore solutions for defining interoperable protocols and mechanisms that enables AI agents to collaborate effectively in complex human-driven tasks. This work will focus on interoperable mechanisms for agent capability exposure, forwarding, coordination, and secure communication, while allowing flexibility for different agent metadata representation models and deployment architectures (e.g., agent-card-based approaches) <br>
 
+DMSC will focus on AI Agent Gateway-centric management, control-plane, and operational infrastructure for dynamic multi-agent collaboration. The working group will leverage existing industry agent description and interaction mechanisms, such as A2A Agent Cards and MCP, where applicable, rather than defining competing formats or protocols.
+
+When agent capability descriptions, endpoints, and security requirements are already available through existing mechanisms such as Agent Cards, DMSC may define how selected information is made available to Agent Gateways, synchronized among gateways, or filtered according to local policy. The Agent Gateway may maintain a local, policy-controlled view of reachable agents to support selection, reachability, operational visibility, and security enforcement in service provider, enterprise, or cloud environments.
+
+DMSC will not define a new general-purpose agent-to-agent application protocol or a competing agent capability card format. The work will instead focus on gateway-mediated functions, including agent registration or attachment to gateways, gateway-local agent state, policy-controlled metadata exposure, gateway-to-gateway synchronization, operational visibility, and security for gateway-mediated collaboration.
+
+
 ### **2. Scope**
 
 The DMSC working group will focus on the following areas:<br>
