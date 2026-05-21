@@ -14,7 +14,7 @@ To address these challenges, the Dynamic, Multi-Agent, Secured Collaboration (DM
 ## Required Details
 - Status: "WG forming"
 - Responsible AD: Charles Eckel, Andy Newton 
-- BOF proponents: Aijun Wang <wangaj3@chinatelecom.cn>, Lionel Morand lionel.morand@huawei.com, Bing Liu <leo.liubing@huawei.com>, Dinesh C. Verma <dverma@us.ibm.com>, Jun Liu <liujun@bupt.edu.cn>, Enge Song <enge.seg@alibaba-inc.com> <br>
+- BOF proponents: Aijun Wang <wangaj3@chinatelecom.cn>, Lionel Morand lionel.morand@huawei.com, Bing Liu <leo.liubing@huawei.com>, Linda Dunbar <linda.dunbar@futurewei.com>, Dinesh C. Verma <dverma@us.ibm.com>, Jun Liu <liujun@bupt.edu.cn>, Enge Song <enge.seg@alibaba-inc.com>, Lianhua Zhang <zhanglh2@asiainfo.com> <br>
 - Number of people expected to attend: 100
 - Length of session (1 or usually 2 hours): 2 hours
 - Conflicts (whole Areas and/or WGs)
