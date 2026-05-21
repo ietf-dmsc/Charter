@@ -3,13 +3,13 @@
 With the rapid emergence of diverse AI agents and various use cases, especially that are described in 3GPP(SA1 R20 Study on 6G Use Cases and Service Requirements(TR 22.870)) , a critical challenge arose is to enable dynamic collaboration among these agents to perform complex tasks on behalf of end-users. At the same time, there is a growing need to ensure that such collaboration is scalable, manageable, operational and secure.
 Service providers and cloud operators face the task of designing and optimizing a comprehensive communication architecture that enables secure and efficient collaboration between heterogeneous AI agents, ensuring the following:
 
-AI Agent Gateway based, distributed agent registration and identification.
-Discovery of suitable peer agents via the AI Agent Gateway.
-Agents registration and capabilities information synchronize among the distributed AI Agent Gateways within the same domain.
-Inter-domain AI Agents related information exchange and trust establishment, including semantic interoperability for agent capabilities, intents, tasks, and context across gateways and domains
-Operational visibility for the AI Agents communication.
+AI Agent Gateway based, distributed agent identification, capability advertisement, and reachability.
+Capability based peer agent selection and request forwarding via the AI Agent Gateway.
+Synchronization or exchange of agent capability information among distributed AI Agent Gateways within the same domain, including support for existing agent metadata representation approaches (e.g., agent cards).
+Inter-domain AI Agents information exchange and trust establishment, including interoperable capability representation and policy exchange across gateways and domains to support secure agent collaboration and forwarding.
+Operational visibility, observability, and policy control for AI agent communications and collaboration flows.
 
-To address these challenges, the Dynamic, Multi-Agent, Secured Collaboration (DMSC) working group will explore solutions for defining interoperable protocols and mechanisms that enables AI agents to collaborate effectively in complex human-driven tasks. This work will focus on core aspects of collaboration—such as distributed agent registration, AI agent gateway based discovery, request coordination, and secure inter‑agent communication
+To address these challenges, the Dynamic, Multi-Agent, Secured Collaboration (DMSC) working group will explore solutions for defining interoperable protocols and mechanisms that enables AI agents to collaborate effectively in complex human-driven tasks. This work will focus on interoperable mechanisms for agent capability exposure, discovery, forwarding, coordination, and secure communication, while allowing flexibility for different agent metadata representation models and deployment architectures (e.g., agent-card-based approaches).
 
 ## Required Details
 - Status: "WG forming"
@@ -26,8 +26,8 @@ To address these challenges, the Dynamic, Multi-Agent, Secured Collaboration (DM
 To allow evaluation of your proposal, please include the following items:
 
 - Any protocols or practices that already exist in this space: <br>
-  There are no protocols that define how to build an operable, manageable infrastructure to enable AI agent collaboration via an AI agent gateway. <br>
-  Various AI Agent Gateway implementations already exist, which creates a demand for standardization of communication between AI agents and their gateways, as well as synchronization across AI agent gateways. <br>
+  There are no standardized protocols that define how to build an operable, manageable infrastructure for AI agent collaboration via an AI agent gateway. <br>
+  Various AI Agent Gateway implementations already exist, which creates a demand for standardization of communication between AI agents and their gateways, as well as synchronization across AI agent gateways. Existing emerging approaches, including Agent Card based ecosystems and open source A2A frameworks, primarily relying on centralized registration or directory mechanisms, but do not address gateway anchored agent communication, distributed gateway coordination, and operational management <br>
 
 - Which (if any) modifications to existing protocols or practices are required: TBD
    
