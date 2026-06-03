@@ -64,7 +64,7 @@ The DMSC BoF is intended as a non-WG-forming discussion to gather community inpu
    
 <li> Relationship to Existing Agent Ecosystems: 30 minutes </li> 
    How does the problem relate to MCP, A2A, and other emerging agent communication frameworks?  <br>
-   Candidate Presentations: Experts from AsiaInfo, ANML and IBM etc.  <br>  <br>
+   Candidate Presentations: Experts from AsiaInfo, ATN, ANML and IBM etc.  <br>  <br>
 
 <li> Community Interest and Next Steps: 20 minutes </li> 
    Is there sufficient interest and a well-defined problem space to justify future IETF work?  <br>
