@@ -51,39 +51,24 @@ DMSC will not define a new general-purpose agent-to-agent application protocol o
 
 
 ## Agenda
-<ol type="1">
-  <li> Chair's Slides (5 minutes) </li> <br>
-   
-  <li> Use Cases, Scenarios, and Requirements for 6G in 3GPP  Menghan Yu/China Telecom (10 minutes) </li>
-       AI Agent Use Cases and Requirements in 6G Network(https://datatracker.ietf.org/doc/draft-yu-dmsc-ai-agent-use-cases-in-6g/ <br>  <br> 
-    
-  <li> Problem Statement and Requirements for Dynamic Multi-agent Secured Collaboration(DMSC) Enge Song/Alibaba (10 minutes) </li>
-       Problem Statement and Requirements for Dynamic Multi-agent Secured Collaboration (DMSC) (https://datatracker.ietf.org/doc/html/draft-song-dmsc-problem-statement) <br> <br>
-   
-  <li> Necessities and Requirements of AI Agent Gateway for Dynamic Multi-Agent Secure Collaboration  Bing Liu/Huawei (10 minutes ) </li>
-       Gateway Requirements for Dynamic Multi-agents Secured Collaboration (https://datatracker.ietf.org/doc/draft-liu-dmsc-gw-requirements/) <br> <br>
-        
-  <li> 6G Progress on Multi-Agent Collaboration Shuang Liang/ZTE (10 minutes) </li>
-       Draft: TBD (TBD) <br><br>
-      
-  <li> AI agent gateway based communication architecture/protocol suites Xueting Li/China Telecom(10 minutes) </li>
-       Multi-agent Collaboration Protocol Suite(https://datatracker.ietf.org/doc/draft-li-dmsc-macp/) <br> <br>
-            
-  <li> Semantic Layer for Gateway-mediated AI Agent Collaboration Huiling Yang/AsiaInfo (10 minutes) </li>
-       Ontology-based Semantic Interaction for Internet of Agents(https://datatracker.ietf.org/doc/draft-zhang-dmsc-ioa-semantic-interaction/ <br> <br>
-       
-  <li> The role of existing NLIP Standard in an AI Agent Gateway, and the Gaps it does not address Dinesh Verma/IBM (15 minutes) </li>
-       Using Natural Language for Universal Coordination in Multi Agent Systems(https://datatracker.ietf.org/doc/draft-verma-dmsc-nlip-notes/) <br><br> 
+The DMSC BoF is intended as a non-WG-forming discussion to gather community input on whether AI Agent Gateway functions represent an Internet interoperability problem suitable for IETF standardization, to better understand deployment scenarios and requirements, and to determine the appropriate scope of potential future work.
 
-  <li> Introduction of Agent Trust Negotiation Protocol(ATN) Enrique Somoza (10 minutes)  </li>
-       Agent Trust Negotiation: Capability, Delegation, and Provenance Binding for AI Agents (https://datatracker.ietf.org/doc/draft-somoza-dmsc-atn-agent-trust-negotiation/) <br> <br>
-      
-  <li> Gateway as the Security Core for Dynamic Multi-agent Collaboration  Weiyu Jiang/Huawei (10 minutes) </li>
-       Draft: TBD (TBD) <br><br>
-     
-  <li> DMSC Charter, relationship to related efforts, and scope boundaries (20 minutes) </li>
-       DMSC Charter https://github.com/ietf-dmsc/Charter/blob/main/dmsc-charter.md <br> <br>
- </ol> 
+<ol type="1">
+<li> Problem Statement and Deployment Scenarios: 40 minutes </li> 
+   Are AI Agent Gateways necessary? In which deployment scenarios? Do they provide value? <br> 
+   Candidate Presentations: Experts from Alibaba, Unipay, and 3GPP and Huawei experts etc.  <br>  <br>
+   
+<li> AI agent gateway based architecture/protocol suites: 30 minutes </li> 
+   Do they require a fundamentally new architecture for AI Agents?  <br>
+   Candidate Presentations: Experts from China Telecom, CAS etc.  <br>  <br>
+   
+<li> Relationship to Existing Agent Ecosystems: 30 minutes </li> 
+   How does the problem relate to MCP, A2A, and other emerging agent communication frameworks?  <br>
+   Candidate Presentations: Experts from AsiaInfo, ANML and IBM etc.  <br>  <br>
+
+<li> Community Interest and Next Steps: 20 minutes </li> 
+   Is there sufficient interest and a well-defined problem space to justify future IETF work?  <br>
+   Open Discussions(DMSC Charter)  <br>  <br>
 
 ## Links to the mailing list, draft charter if any (for WG-forming BoF), relevant Internet-Drafts, etc.
    - Mailing List: dmsc@ietf.org (subscribe the list at: https://mailman3.ietf.org/mailman3/lists/dmsc@ietf.org/
