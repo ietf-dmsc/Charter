@@ -45,9 +45,7 @@ To allow evaluation of your proposal, please include the following items:
   ACP: focuses mainly on the transport issues between AI agents. <br>
   DAWN: focuses mainly on the DNS based AI agents discovery now and will not involve the AI Agents Gateway. <br>
 
-DMSC will focus on AI Agent Gateway-centric management, control-plane, and operational infrastructure for dynamic multi-agent collaboration. The working group will leverage existing industry agent description and interaction mechanisms, such as A2A Agent Cards and MCP, where applicable, rather than defining competing formats or protocols.
-
-DMSC will not define a new general-purpose agent-to-agent application protocol or a competing agent capability card format. The work will instead focus on gateway-mediated functions, including agent registration or attachment to gateways, gateway-local agent state, policy-controlled metadata exposure, gateway-to-gateway synchronization, operational visibility, and security for gateway-mediated collaboration.
+DMSC will focus on AI Agent Gateway-centric management, control-plane, and operational infrastructure for dynamic multi-agent collaboration, which includes agent registration or attachment to gateways, gateway-local agent state, policy-controlled metadata exposure, gateway-to-gateway synchronization, operational visibility, and security for gateway-mediated collaboration.
 
 
 ## Agenda
