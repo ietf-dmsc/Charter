@@ -37,9 +37,9 @@ To allow evaluation of your proposal, please include the following items:
    The AI agent gateway based communication protocol suites,the communication between AI agents and their gateway, as well as information synchronization among AI agent gateways.
 
 - Open source projects (if any) implementing this work: <br>
-   OpenGateway: [https://github.com/anAtheist987/OpenGateway] <br>
-   ANP: [https://github.com/agent-network-protocol/AgentNetworkProtocol] <br>
-   AIP: [https://github.com/AIP-PUB/Agent-Interconnection-Protocol-Project] <br>
+   OpenGateway: <https://github.com/anAtheist987/OpenGateway> <br>
+   ANP: <https://github.com/agent-network-protocol/AgentNetworkProtocol> <br>
+   AIP: <https://github.com/AIP-PUB/Agent-Interconnection-Protocol-Project> <br>
 
 - Relationship with other ongoing AI agent effortrs in the IETF: <br>
   ACP: focuses mainly on the transport issues between AI agents. <br>
@@ -69,8 +69,8 @@ The DMSC BoF is intended as a non-WG-forming discussion to gather community inpu
    Open Discussions  <br>  <br>
 
 ## Links to the mailing list, draft charter if any (for WG-forming BoF), relevant Internet-Drafts, etc.
-   - Mailing List: dmsc@ietf.org (subscribe the list at: [https://mailman3.ietf.org/mailman3/lists/dmsc@ietf.org/])
-   - Draft charter:  [https://github.com/ietf-dmsc/Charter/blob/main/dmsc-charter.md]
+   - Mailing List: dmsc@ietf.org (subscribe the list at: <https://mailman3.ietf.org/mailman3/lists/dmsc@ietf.org/>)
+   - Draft charter:  <https://github.com/ietf-dmsc/Charter/blob/main/dmsc-charter.md>
 
    - Relevant Internet-Drafts:
       - Use Cases:
