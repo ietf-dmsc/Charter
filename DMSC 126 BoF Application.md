@@ -84,7 +84,7 @@ The DMSC BoF is intended as a non-WG-forming discussion to gather community inpu
         <ol type="1">
         <li> <a href="https://datatracker.ietf.org/doc/draft-li-dmsc-macp/"> Multi-agent Collaboration Protocol Suite</a> </li>
         <li> <a href="https://datatracker.ietf.org/doc/draft-li-dmsc-inf-architecture/"> Dynamic Multi-agents Secured Collaboration Infrastructure Architecture </a> </li> 
-        <li> <a href="https://datatracker.ietf.org/doc/draft-liu-dmsc-acps-arc/"> Agent Collaboration Protocols Architecture for Internet of Agents </a>[/li>
+        <li> <a href="https://datatracker.ietf.org/doc/draft-liu-dmsc-acps-arc/"> Agent Collaboration Protocols Architecture for Internet of Agents </a></li>
         <li> <a href="https://datatracker.ietf.org/doc/draft-yang-dmsc-ioa-task-protocol/"> Internet of Agents Task Protocol (IoA Task Protocol) for Heterogeneous Agent Collaboration </a> </li>
         <li> <a href="https://datatracker.ietf.org/doc/draft-liu-dmsc-gw-requirements/"> Requirements for Agent Gateway </a> </li>
         <li> <a href="https://datatracker.ietf.org/doc/draft-agent-gw/"> Agent Communication Gateway for Semantic Routing and Working Memory </a> </li>
