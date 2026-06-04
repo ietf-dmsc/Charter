@@ -9,15 +9,15 @@ Service providers and cloud operators face the task of designing and optimizing 
 - Inter-domain AI Agents information exchange and trust establishment, including interoperable capability representation and policy exchange across gateways and domains to support secure agent collaboration and forwarding. <br>
 - Operational visibility, observability, and policy control for AI agent communications and collaboration flows. <br>
 
-To address these challenges, the Dynamic, Multi-Agent, Secured Collaboration (DMSC) working group will explore interoperable protocols and mechanisms for AI Agent Gateway-mediated collaboration, including agent capability exposure, request forwarding, coordination, synchronization, policy control, observability, and secure communication. <br>
+To address these challenges, the Dynamic, Multi-Agent, Secured Collaboration (DMSC) community(dmsc@ietf.org, subscribe the list at: https://mailman3.ietf.org/mailman3/lists/dmsc@ietf.org/) will explore interoperable protocols and mechanisms for AI Agent Gateway-mediated collaboration, including agent capability exposure, request forwarding, coordination, synchronization, policy control, observability, and secure communication. <br>
 
-DMSC is intended to complement related efforts such as ACP/agentproto, DAWN, A2A, Agent Cards, MCP, and similar ecosystems. It will not define a new general-purpose agent-to-agent application protocol, discovery protocol, MCP replacement, or competing agent capability card format; instead, it may use, profile, or provide gateway-mediated management around such mechanisms where applicable. <br>
+DMSC will profile existing and evolving mechanisms that are defined elsewhere, identifying any gaps and the potential benefits of a formal definition of an AI agent gateway model to enable dynamic collaboration among AI agents. <br>
 
 ## Required Details
 - Status: "non-WG forming"
 - Responsible AD: Charles Eckel, Andy Newton 
 - BOF proponents: Aijun Wang <wangaj3@chinatelecom.cn>, Lionel Morand lionel.morand@huawei.com, Bing Liu <leo.liubing@huawei.com>, Linda Dunbar <linda.dunbar@futurewei.com>, Dinesh C. Verma <dverma@us.ibm.com>, Jun Liu <liujun@bupt.edu.cn>, Enge Song <enge.seg@alibaba-inc.com>, Lianhua Zhang <zhanglh2@asiainfo.com> <br>
-- Number of people expected to attend: 100
+- Number of people expected to attend: 150
 - Length of session (1 or usually 2 hours): 2 hours
 - Conflicts (whole Areas and/or WGs)
    - Chair Conflicts: TBD
@@ -68,10 +68,10 @@ The DMSC BoF is intended as a non-WG-forming discussion to gather community inpu
 
 <li> Community Interest and Next Steps: 20 minutes </li> 
    Is there sufficient interest and a well-defined problem space to justify future IETF work?  <br>
-   Open Discussions(DMSC Charter)  <br>  <br>
+   Open Discussions  <br>  <br>
 
 ## Links to the mailing list, draft charter if any (for WG-forming BoF), relevant Internet-Drafts, etc.
-   - Mailing List: dmsc@ietf.org (subscribe the list at: https://mailman3.ietf.org/mailman3/lists/dmsc@ietf.org/
+   - Mailing List: dmsc@ietf.org (subscribe the list at: https://mailman3.ietf.org/mailman3/lists/dmsc@ietf.org/)
    - Draft charter:  https://github.com/ietf-dmsc/Charter/blob/main/dmsc-charter.md
 
    - Relevant Internet-Drafts:
