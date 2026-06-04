@@ -9,7 +9,7 @@ Service providers and cloud operators face the task of designing and optimizing 
 - Inter-domain AI Agents information exchange and trust establishment, including interoperable capability representation and policy exchange across gateways and domains to support secure agent collaboration and forwarding. <br>
 - Operational visibility, observability, and policy control for AI agent communications and collaboration flows. <br>
 
-To address these challenges, the Dynamic, Multi-Agent, Secured Collaboration (DMSC) community(dmsc@ietf.org, subscribe the list at: https://mailman3.ietf.org/mailman3/lists/dmsc@ietf.org/) will explore interoperable protocols and mechanisms for AI Agent Gateway-mediated collaboration, including agent capability exposure, request forwarding, coordination, synchronization, policy control, observability, and secure communication. <br>
+To address these challenges, the Dynamic, Multi-Agent, Secured Collaboration (DMSC) community(dmsc@ietf.org, subscribe the list at: <https://mailman3.ietf.org/mailman3/lists/dmsc@ietf.org/>) will explore interoperable protocols and mechanisms for AI Agent Gateway-mediated collaboration, including agent capability exposure, request forwarding, coordination, synchronization, policy control, observability, and secure communication. <br>
 
 DMSC will profile existing and evolving mechanisms that are defined elsewhere, identifying any gaps and the potential benefits of a formal definition of an AI agent gateway model to enable dynamic collaboration among AI agents. <br>
 
@@ -37,9 +37,9 @@ To allow evaluation of your proposal, please include the following items:
    The AI agent gateway based communication protocol suites,the communication between AI agents and their gateway, as well as information synchronization among AI agent gateways.
 
 - Open source projects (if any) implementing this work: <br>
-   OpenGateway: https://github.com/anAtheist987/OpenGateway <br>
-   ANP: https://github.com/agent-network-protocol/AgentNetworkProtocol <br>
-   AIP: https://github.com/AIP-PUB/Agent-Interconnection-Protocol-Project <br>
+   OpenGateway: [https://github.com/anAtheist987/OpenGateway] <br>
+   ANP: [https://github.com/agent-network-protocol/AgentNetworkProtocol] <br>
+   AIP: [https://github.com/AIP-PUB/Agent-Interconnection-Protocol-Project] <br>
 
 - Relationship with other ongoing AI agent effortrs in the IETF: <br>
   ACP: focuses mainly on the transport issues between AI agents. <br>
@@ -52,46 +52,46 @@ DMSC will focus on AI Agent Gateway-centric management, control-plane, and opera
 The DMSC BoF is intended as a non-WG-forming discussion to gather community input on whether AI Agent Gateway functions represent an Internet interoperability problem suitable for IETF standardization, to better understand deployment scenarios and requirements, and to determine the appropriate scope of potential future work.
 
 <ol type="1">
-<li> Problem Statement and Deployment Scenarios: 40 minutes </li> 
+<li> Problem Statement and Deployment Scenarios (40 minutes) </li> 
    Are AI Agent Gateways necessary? In which deployment scenarios? Do they provide value? <br> 
    Candidate Presentations: Experts from Alibaba, Unipay, and 3GPP and Huawei experts etc.  <br>  <br>
    
-<li> AI agent gateway based architecture/protocol suites: 30 minutes </li> 
+<li> AI agent gateway based architecture/protocol suites (30 minutes) </li> 
    Do they require a fundamentally new architecture for AI Agents?  <br>
    Candidate Presentations: Experts from China Telecom, CAS etc.  <br>  <br>
    
-<li> Relationship to Existing Agent Ecosystems: 30 minutes </li> 
+<li> Relationship to Existing Agent Ecosystems (30 minutes) </li> 
    How does the problem relate to MCP, A2A, and other emerging agent communication frameworks?  <br>
    Candidate Presentations: Experts from AsiaInfo, ATN, ANML and IBM etc.  <br>  <br>
 
-<li> Community Interest and Next Steps: 20 minutes </li> 
+<li> Community Interest and Next Steps (20 minutes) </li> 
    Is there sufficient interest and a well-defined problem space to justify future IETF work?  <br>
    Open Discussions  <br>  <br>
 
 ## Links to the mailing list, draft charter if any (for WG-forming BoF), relevant Internet-Drafts, etc.
-   - Mailing List: dmsc@ietf.org (subscribe the list at: https://mailman3.ietf.org/mailman3/lists/dmsc@ietf.org/)
-   - Draft charter:  https://github.com/ietf-dmsc/Charter/blob/main/dmsc-charter.md
+   - Mailing List: dmsc@ietf.org (subscribe the list at: [https://mailman3.ietf.org/mailman3/lists/dmsc@ietf.org/])
+   - Draft charter:  [https://github.com/ietf-dmsc/Charter/blob/main/dmsc-charter.md]
 
    - Relevant Internet-Drafts:
       - Use Cases:
         <ol type="1">
-        <li>AI Agent Use Cases and Requirements in 6G Network(https://datatracker.ietf.org/doc/draft-yu-dmsc-ai-agent-use-cases-in-6g/)</li>
-        <li>Network AI Agent Use Cases and Requirements in 6G(https://datatracker.ietf.org/doc/html/draft-tong-network-agent-use-cases-in-6g-00)</li>
-        <li>Problem Statement and Requirements for Dynamic Multi-agent Secured Collaboration (DMSC) (https://datatracker.ietf.org/doc/html/draft-song-dmsc-problem-statement)</li>
+        <li>AI Agent Use Cases and Requirements in 6G Network [https://datatracker.ietf.org/doc/draft-yu-dmsc-ai-agent-use-cases-in-6g/]</li>
+        <li>Network AI Agent Use Cases and Requirements in 6G [https://datatracker.ietf.org/doc/html/draft-tong-network-agent-use-cases-in-6g-00]</li>
+        <li>Problem Statement and Requirements for Dynamic Multi-agent Secured Collaboration (DMSC) [https://datatracker.ietf.org/doc/html/draft-song-dmsc-problem-statement]</li>
         </ol>
        
       - Solutions
         <ol type="1">
-        <li> Multi-agent Collaboration Protocol Suite(https://datatracker.ietf.org/doc/draft-li-dmsc-macp/))</li>
-        <li> Dynamic Multi-agents Secured Collaboration Infrastructure architecture(https://datatracker.ietf.org/doc/draft-li-dmsc-inf-architecture/)</li> 
-        <li> Agent Collaboration Protocols Architecture for Internet of Agents https://datatracker.ietf.org/doc/draft-liu-dmsc-acps-arc/</li>
-        <li> Internet of Agents Task Protocol (IoA Task Protocol) for Heterogeneous Agent Collaboration https://datatracker.ietf.org/doc/draft-yang-dmsc-ioa-task-protocol/ </li>
-        <li> Requirements for Agent Gateway(https://datatracker.ietf.org/doc/draft-liu-dmsc-gw-requirements/) </li>
-        <li> Agent Communication Gateway for Semantic Routing and Working Memory (https://datatracker.ietf.org/doc/draft-agent-gw/) </li>
-        <li> Intent-based Agent Interconnection Protocol at Agent Gateway (https://www.ietf.org/ietf-ftp/internet-drafts/draft-sz-dmsc-iaip-00.txt) </li>
-        <li> Agent Trust Negotiation: Capability, Delegation, and Provenance Binding for AI Agents (https://datatracker.ietf.org/doc/draft-somoza-dmsc-atn-agent-trust-negotiation/)</li>   
-        <li> Security Analysis of Multi-agents Secured Communication and Limitations of Existing Protocols(https://datatracker.ietf.org/doc/draft-zhang-dmsc-mas-communication/) </li>
-        <li> Ontology-based Semantic Interaction for Internet of Agents(https://datatracker.ietf.org/doc/draft-zhang-dmsc-ioa-semantic-interaction/) </li>
-        <li> Cross-Domain Interoperability Framework for AI Agent Collaboration(https://datatracker.ietf.org/doc/draft-cui-dmsc-agent-cdi/) </li>
+        <li> Multi-agent Collaboration Protocol Suite[https://datatracker.ietf.org/doc/draft-li-dmsc-macp/]</li>
+        <li> Dynamic Multi-agents Secured Collaboration Infrastructure architecture[https://datatracker.ietf.org/doc/draft-li-dmsc-inf-architecture/]</li> 
+        <li> Agent Collaboration Protocols Architecture for Internet of Agents [https://datatracker.ietf.org/doc/draft-liu-dmsc-acps-arc/]</li>
+        <li> Internet of Agents Task Protocol (IoA Task Protocol) for Heterogeneous Agent Collaboration [https://datatracker.ietf.org/doc/draft-yang-dmsc-ioa-task-protocol/] </li>
+        <li> Requirements for Agent Gateway [https://datatracker.ietf.org/doc/draft-liu-dmsc-gw-requirements/] </li>
+        <li> Agent Communication Gateway for Semantic Routing and Working Memory [https://datatracker.ietf.org/doc/draft-agent-gw/] </li>
+        <li> Intent-based Agent Interconnection Protocol at Agent Gateway [https://www.ietf.org/ietf-ftp/internet-drafts/draft-sz-dmsc-iaip-00.txt] </li>
+        <li> Agent Trust Negotiation: Capability, Delegation, and Provenance Binding for AI Agents [https://datatracker.ietf.org/doc/draft-somoza-dmsc-atn-agent-trust-negotiation/]</li>   
+        <li> Security Analysis of Multi-agents Secured Communication and Limitations of Existing Protocols[https://datatracker.ietf.org/doc/draft-zhang-dmsc-mas-communication/] </li>
+        <li> Ontology-based Semantic Interaction for Internet of Agents[https://datatracker.ietf.org/doc/draft-zhang-dmsc-ioa-semantic-interaction/] </li>
+        <li> Cross-Domain Interoperability Framework for AI Agent Collaboration[https://datatracker.ietf.org/doc/draft-cui-dmsc-agent-cdi/] </li>
         <li> Using Natural Language for Universal Coordination in Multi Agent Systems(https://datatracker.ietf.org/doc/draft-verma-dmsc-nlip-notes/) </li>
         </ol>
