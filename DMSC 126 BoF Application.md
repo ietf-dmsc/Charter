@@ -80,7 +80,7 @@ The DMSC BoF is intended as a non-WG-forming discussion to gather community inpu
         <li> <a href="https://datatracker.ietf.org/doc/html/draft-song-dmsc-problem-statement"> Problem Statement and Requirements for Dynamic Multi-agent Secured Collaboration (DMSC)</a></li>
         </ol>
        
-      - Solutions
+      - Solutions:
         <ol type="1">
         <li> <a href="https://datatracker.ietf.org/doc/draft-li-dmsc-macp/"> Multi-agent Collaboration Protocol Suite</a> </li>
         <li> <a href="https://datatracker.ietf.org/doc/draft-li-dmsc-inf-architecture/"> Dynamic Multi-agents Secured Collaboration Infrastructure Architecture </a> </li> 
