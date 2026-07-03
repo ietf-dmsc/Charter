@@ -42,8 +42,8 @@ Are AI Agent Gateways necessary? In which deployment scenarios? Do they provide 
 
 ## Part 3. Potential Protocol extensions that around AI Agent Gateway/Relationship to Existing Agent Ecosystems (20 minutes)
 
-3-1 Agency: Invite experts from agency to introduce their considerations for the protocol blocks for the agent communications(agent directory service, identity, observability and evaluation and oasf etc.) based on Agency experience, not the agency itself.   10 minutes
-3-2 Chris Wood: Introduce the necssary protocol extensions and relationship to existing agent ecosystem  10 minutes
+3-1 Agency: Invite experts from agency to introduce their considerations for the protocol blocks for the agent communications(agent directory service, identity, observability and evaluation and oasf etc.) based on Agency experience, not the agency itself.   10 minutes  <br>
+3-2 Chris Wood: Introduce the necssary protocol extensions and relationship to existing agent ecosystem  10 minutes <br>
 
 Backup:
 3-3 Agent Trust Negotiation(Capability, Delegation, and Provenance Binding for AI Agents).  10 minutes <br>
