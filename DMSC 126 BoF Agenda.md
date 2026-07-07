@@ -1,4 +1,4 @@
-Version 2.0(July 3, 2026)
+Version 3.0(July 7, 2026)
 
 ## Part 0.
 Chair's Introduction  10 minutes <br>
@@ -7,28 +7,25 @@ Chair's Introduction  10 minutes <br>
 Are AI Agent Gateways necessary? In which deployment scenarios? Do they provide value? <br>
 <Goal> Establish why a Gateway is necessary in specific deployment scenarios, and draw a clear boundary around what an Agent Gateway is and is NOT)
 
-1-1 AI Agent Use Cases and Requirements in 6G Network.  10 minutes    <br>
+1-1 AI Agent Use Cases, Requirements and Communication Framework Considerations of 6G in 3GPP in 6G Network.  15 minutes  <br>
        Presenter: Experts from 3GPP <br>
        Draft: https://datatracker.ietf.org/doc/draft-yu-dmsc-ai-agent-use-cases-in-6g/ <br>
+       Draft: https://datatracker.ietf.org/doc/html/draft-ly-multi-agent-in6g <br>
 
 1-2 Problem Statement and Requirements for Dynamic Multi-agent Secured Collaboration (DMSC).  10 minutes <br>
        Presenter: Experts from Alibaba <br>
        Draft: https://datatracker.ietf.org/doc/html/draft-song-dmsc-problem-statement <br>
 
-1-3 Deployment Scenarios and Gap Analysis for AI Agent Gateway.  10 minutes <br>
+1-3 Deployment Scenarios and Gap Analysis for AI Agent Gateway.  15 minutes <br>
        Presenter: Experts from Huawei    <br>
        Draft: https://datatracker.ietf.org/doc/draft-dunbar-dmsc-gw-scenarios-gap-analysis/ <br>
        Draft: https://datatracker.ietf.org/doc/draft-liu-dmsc-gw-requirements/ <br>
-
-1-4 AI Agents Communication Framework Considerations of 6G in 3GPP.  10 minutes <br>
-       Presenter: Experts from 3GPP  <br>
-       Draft TBD <br>
 
 ## Part  2. AI agent gateway based architecture/protocol suites (30 minutes)
   Do they require a fundamentally new architecture for AI Agents? <br>
   <Goal> Enumerate GW functions, sort them into implementation-specific / standardizable, and for the standardizable ones, identify the appropriate home — IETF (existing WG), IETF (unclaimed/new), or outside IETF. 
 
-2-1 DMSC Infrastructure Architecture, Multi-Agent Collaboration Protocol Suite (MACP), Gateway Function Blocks(Onbarding,Mediation, Visibility,Security Enhancement etc.  20 minutes <br>
+2-1 DMSC Infrastructure Architecture, Multi-Agent Collaboration Protocol Suite (MACP), Gateway Function Blocks(Onbarding,Mediation, Visibility,Observability, gateway-to-gateway synchronization etc.)  20 minutes <br>
        Presenter: Experts from China Telecom/BUPT/AsiaInfo/Qsinghua/CAS <br>
        Draft: https://datatracker.ietf.org/doc/draft-li-dmsc-inf-architecture/ <br>
        Draft: https://datatracker.ietf.org/doc/draft-li-dmsc-macp/ <br>
@@ -36,7 +33,7 @@ Are AI Agent Gateways necessary? In which deployment scenarios? Do they provide 
        Draft: https://datatracker.ietf.org/doc/draft-yang-dmsc-gateway-semantic-layer/ <br>
        Draft: https://www.ietf.org/ietf-ftp/internet-drafts/draft-sz-dmsc-iaip-00.txt <br>
 
-2-2 Gateway as the Security Core for Dynamic Multi-agent Collaboration.  10 minutes <br>
+2-2 Security and Trust Requirements for Gateway-Mediated Collaboration.  10 minutes <br>
        Presenter: Experts from Huawei <br>
        Draft: TBD <br>
 
