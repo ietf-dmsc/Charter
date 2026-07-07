@@ -7,7 +7,7 @@ Chair's Introduction  10 minutes <br>
 Are AI Agent Gateways necessary? In which deployment scenarios? Do they provide value? <br>
 <Goal> Establish why a Gateway is necessary in specific deployment scenarios, and draw a clear boundary around what an Agent Gateway is and is NOT)
 
-1-1 AI Agent Use Cases, Requirements and Communication Framework Considerations of 6G in 3GPP in 6G Network.  15 minutes  <br>
+1-1 AI Agent Use Cases, Requirements and Communication Framework Considerations of 6G in 3GPP.  15 minutes  <br>
        Presenter: Experts from 3GPP <br>
        Draft: https://datatracker.ietf.org/doc/draft-yu-dmsc-ai-agent-use-cases-in-6g/ <br>
        Draft: https://datatracker.ietf.org/doc/html/draft-ly-multi-agent-in6g <br>
