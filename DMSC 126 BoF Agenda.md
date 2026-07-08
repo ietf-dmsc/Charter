@@ -1,13 +1,13 @@
-Version 3.0(July 7, 2026)
+Version 4.0(July 8, 2026)
 
 ## Part 0.
 Chair's Introduction  10 minutes <br>
 
-## Part 1. Problem Statement and Deployment Scenarios (40 minutes)
+## Part 1. Problem Statement and Deployment Scenarios (30 minutes)
 Are AI Agent Gateways necessary? In which deployment scenarios? Do they provide value? <br>
 <Goal> Establish why a Gateway is necessary in specific deployment scenarios, and draw a clear boundary around what an Agent Gateway is and is NOT)
 
-1-1 AI Agent Use Cases, Requirements and Communication Framework Considerations of 6G in 3GPP.  15 minutes  <br>
+1-1 AI Agent Use Cases, Requirements and Communication Framework Considerations of 6G in 3GPP.  10 minutes  <br>
        Presenter: Experts from 3GPP <br>
        Draft: https://datatracker.ietf.org/doc/draft-yu-dmsc-ai-agent-use-cases-in-6g/ <br>
        Draft: https://datatracker.ietf.org/doc/html/draft-ly-multi-agent-in6g <br>
@@ -16,16 +16,16 @@ Are AI Agent Gateways necessary? In which deployment scenarios? Do they provide 
        Presenter: Experts from Alibaba <br>
        Draft: https://datatracker.ietf.org/doc/html/draft-song-dmsc-problem-statement <br>
 
-1-3 Deployment Scenarios and Gap Analysis for AI Agent Gateway.  15 minutes <br>
+1-3 Deployment Scenarios and Gap Analysis for AI Agent Gateway.  10 minutes <br>
        Presenter: Experts from Huawei    <br>
        Draft: https://datatracker.ietf.org/doc/draft-dunbar-dmsc-gw-scenarios-gap-analysis/ <br>
        Draft: https://datatracker.ietf.org/doc/draft-liu-dmsc-gw-requirements/ <br>
 
-## Part  2. AI agent gateway based architecture/protocol suites (30 minutes)
+## Part  2. AI agent gateway based architecture/protocol suites (25 minutes)
   Do they require a fundamentally new architecture for AI Agents? <br>
-  <Goal> Enumerate GW functions, sort them into implementation-specific / standardizable, and for the standardizable ones, identify the appropriate home — IETF (existing WG), IETF (unclaimed/new), or outside IETF. 
+  <Goal> Identifies the functions that may be needed to address the operator challenges, deployment scenarios, and gaps discussed in Part 1. The goal is not to select a specific architecture or protocol solution, but to clarify which functions are needed and which of them may require interoperable behavior. 
 
-2-1 DMSC Infrastructure Architecture, Multi-Agent Collaboration Protocol Suite (MACP), Gateway Function Blocks(Onbarding,Mediation, Visibility,Observability, gateway-to-gateway synchronization etc.)  20 minutes <br>
+2-1 DMSC Infrastructure Architecture, Multi-Agent Collaboration Protocol Suite (MACP), Gateway Function Blocks(Onbarding,Mediation, Visibility,Observability, gateway-to-gateway synchronization etc.)  15 minutes <br>
        Presenter: Experts from China Telecom/BUPT/AsiaInfo/Qsinghua/CAS <br>
        Draft: https://datatracker.ietf.org/doc/draft-li-dmsc-inf-architecture/ <br>
        Draft: https://datatracker.ietf.org/doc/draft-li-dmsc-macp/ <br>
@@ -37,21 +37,19 @@ Are AI Agent Gateways necessary? In which deployment scenarios? Do they provide 
        Presenter: Experts from Huawei <br>
        Draft: TBD <br>
 
-## Part 3. Potential Protocol extensions that around AI Agent Gateway/Relationship to Existing Agent Ecosystems (20 minutes)
+## Part 3. Potential Protocol extensions that around AI Agent Gateway/Relationship to Existing Agent Ecosystems (30 minutes) <br>
+Goal: Map the functions identified in Part 2 to existing agent ecosystem work and possible standardization venues, including existing IETF WGs, or potential new IETF work. <br>
 
-3-1 Agency: Invite experts from agency to introduce their considerations for the protocol blocks for the agent communications(agent directory service, identity, observability and evaluation and oasf etc.) based on Agency experience, not the agency itself.   10 minutes  <br>
-3-2 Chris Wood: Introduce the necessary protocol extensions and relationship to existing agent ecosystem  10 minutes <br>
-
-Backup:<br>
-3-3 Agent Trust Negotiation(Capability, Delegation, and Provenance Binding for AI Agents).  10 minutes <br>
+3-1 Chris Wood: Introduce the necessary protocol extensions and relationship to existing agent ecosystem  10 minutes <br>
+3-2 Future DMSC Works when compared with the industry practices(for example, Agency).   10 minutes  <br>
+3-3 Agentic Notation Markup Language (ANML)    5 minutes <br>
+       Presenter: Aaron Jeskey <br>
+       Draft: https://datatracker.ietf.org/doc/draft-jeskey-anml/
+3-4 Agent Trust Negotiation(Capability, Delegation, and Provenance Binding for AI Agents).  5 minutes <br>
        Presenter: Enrique Somoza <br>
        Draft: https://datatracker.ietf.org/doc/draft-somoza-dmsc-atn-agent-trust-negotiation/ <br>
-
-3-4 The role of existing NLIP Standard in an AI Agent Gateway.  10 minutes <br>
-       Presenter: Dinesh Verma <br>
-       Draft:  https://datatracker.ietf.org/doc/draft-verma-dmsc-nlip-notes/ <br>
  
-## Part 4. Community Interest and Next Steps (20 minutes)
+## Part 4. Community Interest and Next Steps (25 minutes)
 Is there sufficient interest and a well-defined problem space to justify future IETF work? <br>
 
 We should prepare in advance some questionnaire, for example: <br>
