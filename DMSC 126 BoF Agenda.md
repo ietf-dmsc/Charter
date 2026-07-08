@@ -44,7 +44,7 @@ Goal: Map the functions identified in Part 2 to existing agent ecosystem work an
 3-2 Future DMSC Works when compared with the industry practices(for example, Agency).   10 minutes  <br>
 3-3 Agentic Notation Markup Language (ANML)    5 minutes <br>
        Presenter: Aaron Jeskey <br>
-       Draft: https://datatracker.ietf.org/doc/draft-jeskey-anml/
+       Draft: https://datatracker.ietf.org/doc/draft-jeskey-anml/ <br>
 3-4 Agent Trust Negotiation(Capability, Delegation, and Provenance Binding for AI Agents).  5 minutes <br>
        Presenter: Enrique Somoza <br>
        Draft: https://datatracker.ietf.org/doc/draft-somoza-dmsc-atn-agent-trust-negotiation/ <br>
