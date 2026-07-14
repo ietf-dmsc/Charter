@@ -60,9 +60,9 @@ Goal: Map the functions from Part 2 to existing or potential venues.
 Chair-facilitated discussion  <br>
 
 Questions: <br>
-   .Which gateway functions require standardization?
-   .Which functions are deployment-specific?
-   .Which work is unique to DMSC, and which belongs elsewhere?
-   .What is missing from the problem framing? From the functions?
-   .Who is willing to work on DMSC functions? Which parts are most urgent/compelling?
-   .What are the appropriate next steps: continue on list, refine problem statement, send requirements to other WGs, focused side meeting, future WG-forming BoF, no DMSC-specific work at this time, or some combination?
+   .Which gateway functions require standardization? <br>
+   .Which functions are deployment-specific?  <br>
+   .Which work is unique to DMSC, and which belongs elsewhere? <br>
+   .What is missing from the problem framing? From the functions? <br>
+   .Who is willing to work on DMSC functions? Which parts are most  urgent/compelling? <br>
+   .What are the appropriate next steps: continue on list, refine problem statement, send requirements to other WGs, focused side meeting, future WG-forming BoF, no DMSC-specific work at this time, or some combination? <br>
